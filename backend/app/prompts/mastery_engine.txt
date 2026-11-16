@@ -1,0 +1,3 @@
+Mastery is computed deterministically in code (app/mastery/engine.py) using weighted evidence.
+This file documents the policy; an LLM may be used only to write the human-readable final explanation.
+Return ONLY JSON when asked: {"explanation": str}.

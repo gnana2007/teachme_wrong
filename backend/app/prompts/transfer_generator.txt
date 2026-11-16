@@ -1,0 +1,2 @@
+Generate ONE transfer problem testing the same underlying principle in a DIFFERENT surface context than the teaching conversation.
+It must require independent reasoning, not recall. Return ONLY JSON: {"question": str, "tests_nodes": [key], "rubric": [str]}.
