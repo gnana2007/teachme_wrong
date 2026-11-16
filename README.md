@@ -2,7 +2,7 @@
 
 Turn the AI from an answer machine into a confused student that **you** must teach. Alex (the AI student) opens with a plausible misconception; you explain, defend, and apply the concept; an independent evaluator updates a concept-level mastery graph; a transfer problem decides the final mastery state; professors see class-wide misconception patterns.
 
-## Quick start (no API key needed)
+## Quick start 
 ```bash
 # terminal 1
 cd backend
